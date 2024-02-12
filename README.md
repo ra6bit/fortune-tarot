@@ -1,2 +1,2 @@
 # fortune-tarot
-A tarot card datafile for unix fortunes
+A tarot card datafile for unix fortunes.
